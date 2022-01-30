@@ -2,6 +2,13 @@
 
 Circle avatar generator for Node.js
 
+
+## Examples
+
+![David Mart](https://github.com/david-mart/initials-avatar-generator/blob/master/samples/DM.png?raw=true)
+![Leela Turanga](https://github.com/david-mart/initials-avatar-generator/blob/master/samples/LT.png?raw=true)
+![Pavel Durov](https://github.com/david-mart/initials-avatar-generator/blob/master/samples/PD.png?raw=true)
+![Nick Minard](https://github.com/david-mart/initials-avatar-generator/blob/master/samples/NM.png?raw=true)
 ## TSDoc
 
 <!-- INSERT GENERATED DOCS START -->

@@ -24,7 +24,7 @@ const text = (
   width = 100,
   textProportion = 0.6
 ) => {
-  let fontsize = width;
+  let fontsize = width / 2.3;
   ctx.textAlign = 'center';
   ctx.textBaseline = 'hanging';
   do {
