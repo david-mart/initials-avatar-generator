@@ -13,8 +13,9 @@ export const getInitials = (maxLetters = 3) =>
 
 /**
  * Generate avatar
- * @param name Full name to be split into initials @example 'David Mart'
+ * @param name Full name to be split into initials
  * @param config Configuration
+ * @example generate('Pavel Durov', { width: 300, palette: ['#d97706','#4f46e5','#9333ea'], maxLetters: 2, fontProportion: 0.6 })
  * @returns base64 encoded image
  */
 export const generate = (name: string, config: IAGConfig = {}): Buffer => {

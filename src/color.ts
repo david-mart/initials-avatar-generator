@@ -3,6 +3,9 @@ import stc from 'string-to-color';
 import {ColorInput, readability} from 'tinycolor2';
 import * as R from 'ramda';
 
+/**
+ * Color Palette
+ */
 export const defaultPalette: string[] = [
   '#dc2626',
   '#d97706',

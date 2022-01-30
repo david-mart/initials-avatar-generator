@@ -1,4 +1,4 @@
-import {defaultPalette, getBgColor, getFontColor} from '..';
+import {defaultPalette, getBgColor, getFontColor} from '../color';
 
 describe('color', () => {
   describe('getBgColor', () => {
